@@ -15,3 +15,5 @@ Contra pickle, lo veo en ventaja, pickle maneja archivos binarios y estos deben 
 sumado a que sólo es un formato utilizado en Python.
 
 Pude haber utilizado CSV? yo creo que sí, pero JSON me costa 1 sola linea de codigo para almacenarle datos.
+
+PD: me disculpo por haber subido el proyecto entero
